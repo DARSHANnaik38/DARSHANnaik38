@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **contact.darshannaik@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YOXW-xPWfjewaW51oghqrEEwe3HjeWCq/view?usp=sharing](https://drive.google.com/file/d/1YOXW-xPWfjewaW51oghqrEEwe3HjeWCq/view?usp=sharing)
+- 📄 Know about my experiences [Click Here...](https://drive.google.com/file/d/11sllmJ0xu89mdnaPDvkywMi5U8HKwxCv/view?usp=sharing)
 
 - ⚡ Fun fact **Curious kid , love to code**
 
