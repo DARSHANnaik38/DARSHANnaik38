@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Darshan</h1>
+<h3 align="center">A passionate backend developer and AI powered application developer from India</h3>
 <h1 align="center">
   <a href="https://mynewportfoli.netlify.app/">Checkout my portfolio</a>
 </h1>
-<h3 align="center">A passionate backend developer and AI powered application developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshannaik38&label=Profile%20views&color=0e75b6&style=flat" alt="darshannaik38" /> </p>
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **contact.darshannaik@gmail.com**
 
-- 📄 Know about my experiences [Click Here...](https://drive.google.com/file/d/1djS4NrpLbtyyYy_jSzwKw1sHPO0BFL9a/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YOXW-xPWfjewaW51oghqrEEwe3HjeWCq/view?usp=sharing](https://drive.google.com/file/d/1YOXW-xPWfjewaW51oghqrEEwe3HjeWCq/view?usp=sharing)
 
 - ⚡ Fun fact **Curious kid , love to code**
 
@@ -39,3 +39,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshannaik38&show_icons=true&locale=en" alt="darshannaik38" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshannaik38&" alt="darshannaik38" /></p>
+
