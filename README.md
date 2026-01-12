@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YOXW-xPWfjewaW51oghqrEEwe3HjeWCq/view?usp=sharing](https://drive.google.com/file/d/1YOXW-xPWfjewaW51oghqrEEwe3HjeWCq/view?usp=sharing)
 
-- ⚡ Fun fact **Curious kid , love to code**
+- ⚡ **Curious kid , love to code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
