@@ -61,16 +61,9 @@
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake (GitHub Safe)
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshannaik38&theme=tokyo-night" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-<img src="https://raw.githubusercontent.com/darshannaik38/darshannaik38/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
