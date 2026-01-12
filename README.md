@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Darshan+Naik;Backend+%26+AI+Developer;Spring+Boot+%7C+MERN+%7C+Generative+AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Darshan+Naik;Backend+%26+AI+Developer;Spring+Boot+%7C+MERN+%7C+Generative+AI" />
 </h1>
 
 <p align="center">
