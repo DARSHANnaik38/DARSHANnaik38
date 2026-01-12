@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Darshan+Naik;Backend+%26+AI+Developer;Spring+Boot+%7C+MERN+%7C+Generative+AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Darshan+Naik;Backend+%26+AI+Developer;Spring+Boot+%7C+MERN+%7C+Generative+AI" />
 </h1>
 
 <p align="center">
@@ -8,13 +8,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=darshannaik38&label=Profile+Views&color=brightgreen&style=flat" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=darshannaik38&theme=onedark&no-bg=true&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -46,22 +39,7 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=darshannaik38&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.demolab.com?user=darshannaik38&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshannaik38&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake (GitHub Safe)
+## 🐍 Contribution Snake
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
